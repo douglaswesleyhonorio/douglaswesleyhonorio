@@ -1,5 +1,15 @@
 ## Douglas Honorio 
-**`DESENVOLVEDOR (Dados/Games/Front)`**
+21y 
+
+<img 
+width="30"
+height="30" 
+alt="image" 
+src="https://github.com/user-attachments/assets/bcaf752c-029f-469a-9b25-83f7fc51f1a4"
+/>
+
+
+**`Front (UX & UI/ Games )`**
 
 
 ### 🛠️ Languages and Tools
