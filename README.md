@@ -2,7 +2,7 @@
 **`DESENVOLVEDOR (Dados/Games/Front)`**
 
 
-### 🧰 Languages and Tools
+### 🛠️ Languages and Tools
 
 <img 
   align="left"
@@ -92,9 +92,8 @@
 <br />
 
 #
-### 📊 Stats
+### 💹 Stats
 
 ![douglaswesleyhonorio's Stats](https://github-readme-stats.vercel.app/api?username=douglaswesleyhonorio&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&locale=pt-br)
-![douglaswesleyhonorio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswesleyhonorio&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&locale=pt-br) 
 #
 
