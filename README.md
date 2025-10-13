@@ -1,4 +1,6 @@
 ## Douglas Honorio 
+**`Front (UX & UI/ Games )`**
+
 21y 
 
 <img 
@@ -9,7 +11,7 @@ src="https://github.com/user-attachments/assets/bcaf752c-029f-469a-9b25-83f7fc51
 />
 
 
-**`Front (UX & UI/ Games )`**
+
 
 
 ### 🛠️ Languages and Tools
