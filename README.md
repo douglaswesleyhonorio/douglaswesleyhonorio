@@ -1,11 +1,11 @@
 ## Douglas Honorio 
 **`Front (UX & UI/ Games )`**
 
-21y 
+ 
 
-<img 
-width="30"
-height="30" 
+12y<img 
+width="15"
+height="15" 
 alt="image" 
 src="https://github.com/user-attachments/assets/bcaf752c-029f-469a-9b25-83f7fc51f1a4"
 />
