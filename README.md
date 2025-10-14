@@ -1,3 +1,7 @@
+<a href="https://github.com/Glauedson">
+  <img src="./assets/banner.jpg" alt="Imagem de capa"  style="width:100%; height:auto"/>
+</a>
+
 ## Douglas Honorio 
 **`Front (UX & UI/ Games )`**
 
