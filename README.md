@@ -1,18 +1,19 @@
 <a href="https://github.com/douglaswesleyhonorio">
-  <img src="" alt="Imagem de capa"  style="width:100%; height:auto"/>
+  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout.gif" alt="Imagem de capa"  style="width:100%;height:20"/>
 </a>
 
-## Douglas Honorio 
-**`Front (UX & UI/ Games )`**
-
- 
-
-12y<img 
-width="15"
+## Douglas Honorio  **`Front (UX & UI/ Games )`** 
+<h4 align="right" height="100"> 21y </h4>
+<img                                       
+align="right"
+width="15"    
 height="15" 
 alt="image" 
 src="https://github.com/user-attachments/assets/bcaf752c-029f-469a-9b25-83f7fc51f1a4"
-/>
+/>                                                                       
+
+
+
 
 
 
