@@ -56,8 +56,7 @@ src="https://github.com/user-attachments/assets/bcaf752c-029f-469a-9b25-83f7fc51
 />  
 <img
   align="left" 
-  width="400"
-  height="400" 
+  height="200" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswesleyhonorio&theme=dark&show_icons=true&hide_border=false&layout=compact&locale=pt-br"
 />  
 
