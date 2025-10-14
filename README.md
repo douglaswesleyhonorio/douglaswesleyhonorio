@@ -45,7 +45,7 @@ src="https://github.com/user-attachments/assets/bcaf752c-029f-469a-9b25-83f7fc51
 
 #
 ### 📈 Stats
-
-![douglaswesleyhonorio's Stats](https://github-readme-stats.vercel.app/api?username=douglaswesleyhonorio&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&locale=pt-br)
+![douglaswesleyhonorio's Stats](https://github-readme-stats.vercel.app/api?username=douglaswesleyhonorio&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=pt-br)
+![douglaswesleyhonorio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswesleyhonorio&theme=dark&show_icons=true&hide_border=false&layout=compact)
 #
 
