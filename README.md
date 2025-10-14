@@ -1,5 +1,5 @@
 <a href="https://github.com/douglaswesleyhonorio">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout.gif" alt="Imagem de capa"  style="width:100%;height:20"/>
+  <img src="https://github.com/douglaswesleyhonorio/douglaswesleyhonorio/blob/main/github-header-banner%20(1).png" alt="Imagem de capa"  style="width:100%;height:20"/>
 </a>
 
 ## Douglas Honorio  **`Front (UX & UI/ Games )`** 
