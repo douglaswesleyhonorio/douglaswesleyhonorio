@@ -42,10 +42,23 @@ src="https://github.com/user-attachments/assets/bcaf752c-029f-469a-9b25-83f7fc51
 </div>
 
 <br/>
+        
+
 
 #
-### 📈 Stats
-![douglaswesleyhonorio's Stats](https://github-readme-stats.vercel.app/api?username=douglaswesleyhonorio&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=pt-br)
-![douglaswesleyhonorio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswesleyhonorio&theme=dark&show_icons=true&hide_border=false&layout=compact)
-#
+ <h2 align="center">📈 Stats </h2>
+<p>
+<img
+  align="left"    
+  height="200" 
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api?username=douglaswesleyhonorio&theme=dark&show_icons=true&hide_border=false&count_private=true&locale=pt-br"
+/>  
+<img
+  align="left" 
+  width="500"
+  height="500" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswesleyhonorio&theme=dark&show_icons=true&hide_border=false&layout=compact&locale=pt-br"
+/>  
 
+</p>
