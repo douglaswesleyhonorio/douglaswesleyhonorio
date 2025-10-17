@@ -12,7 +12,7 @@ src="https://github.com/user-attachments/assets/bcaf752c-029f-469a-9b25-83f7fc51
 />
   
 </h2>
-<h2 align="center">🔧 Languages and Tools 
+<h2 align="center">🔧 Languages and Tools <br />
   
 <p>
   
@@ -24,10 +24,11 @@ src="https://github.com/user-attachments/assets/bcaf752c-029f-469a-9b25-83f7fc51
 
 </h2>
 
-<h2 align="center">📈 Stats 
-  
-  
-<img
+<h3 align="center">📈 Stats </h3>
+
+<p>
+
+  <img
   align="left"    
   height="200" 
   src="https://github-readme-stats.vercel.app/api?username=douglaswesleyhonorio&theme=dark&show_icons=true&hide_border=false&count_private=true&locale=pt-br"
