@@ -1,5 +1,5 @@
 <a href="https://github.com/douglaswesleyhonorio">
-  <img src="https://github.com/douglaswesleyhonorio/douglaswesleyhonorio/blob/main/github-header-banner%20(1).png" alt="Imagem de capa"  style="width:auto;height:auto"/>
+  <img src="https://github.com/douglaswesleyhonorio/douglaswesleyhonorio/blob/main/github-header-banner.png" alt="Imagem de capa"  style="width:auto;height:auto"/>
 </a>
 
 ## Douglas Honorio  **`Front (UX & UI/ Games )`** 
